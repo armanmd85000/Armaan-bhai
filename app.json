@@ -1,24 +1,24 @@
 {
-    "name": "Drm Uploader By 🅱🅴🅰🆂🆃 👑",
+    "name": "Drm Uploader By The Course Guy 👑",
     "description": "DRM Uploader",
-    "logo": "https://tinypic.host/image/Screenshot-2025-03-19-06-40-21-30.3gKoOw",
+    "logo": "https://files.catbox.moe/5iehki.jpg",
     "keywords": [
         "text-video",
         "video-extract",
         "pyrogram"
     ],
     "repository": "https://github.com/Chiru63019",
-    "success_url": "https://telegram.me/skillwithchiru",
+    "success_url": "https://telegram.me/thecourseguy00",
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "enter_your_api_id",
-            "value": "28942739",
+            "value": "27006047",
             "required": true
         },
         "API_HASH": {
             "description": "enter_your_api_harsh",
-            "value": "654e44711ff5b0460b00d8a3ad335ff5",
+            "value": "d3bb871aa23eadea02cfb7f462c88a78",
             "required": true
         },
         "BOT_TOKEN": {
